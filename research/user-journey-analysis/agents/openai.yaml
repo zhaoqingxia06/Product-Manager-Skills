@@ -1,0 +1,13 @@
+interface:
+  display_name: 用户旅程图
+  short_description: 梳理用户真实场景、行为断点与产品机会，并制作可复用的用户旅程图
+  default_prompt: 请帮我分析这个产品的用户行为路径，先梳理场景、痛点与机会，再制作旅程图。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

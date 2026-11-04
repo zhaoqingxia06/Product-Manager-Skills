@@ -1,0 +1,6 @@
+interface:
+  display_name: "User Behavior Tracking"
+  short_description: "帮助产品经理梳理上线后应监测的数据指标、统计口径和图表，按需补充埋点采集需求"
+  default_prompt: "使用 $user-behavior-tracking 梳理这个产品上线后产品经理需要监测的数据指标，按用户规模、使用频率、功能行为输出口径和看板方案。"
+policy:
+  allow_implicit_invocation: true
