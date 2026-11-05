@@ -4,6 +4,7 @@
 
 | Skill | 用途 |
 | --- | --- |
+| [产品介绍页](skills/product-intro-page/) | 策划、制作和验收产品宣传页。 |
 | [问卷设计](skills/questionnaire-design/) | 设计、优化和检查用户调研问卷。 |
 | [用户旅程图](skills/user-journey-analysis/) | 梳理用户场景、痛点和产品机会。 |
 | [埋点设计](skills/tracking-design/) | 根据原型整理埋点需求，生成 Excel 文档。 |

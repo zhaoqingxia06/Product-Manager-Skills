@@ -1,0 +1,13 @@
+interface:
+  display_name: 产品介绍页策划与制作
+  short_description: 围绕真实产品价值策划、制作和验收清晰有重点的产品宣传网页
+  default_prompt: 使用 $product-intro-page 基于真实产品与用户需求，策划并制作产品介绍页。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
