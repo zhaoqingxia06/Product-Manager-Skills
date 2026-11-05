@@ -5,11 +5,11 @@
 | Skill | 用途 |
 | --- | --- |
 | [产品介绍页](skills/product-intro-page/) | 策划、制作和验收产品宣传页。 |
-| [问卷分析与报告](skills/survey-report-analysis/) | 分析问卷原始数据，生成可交互的 HTML 报告。 |
+| [问卷分析](skills/survey-report-analysis/) | 分析问卷原始数据，生成可交互的 HTML 报告。 |
 | [问卷设计](skills/questionnaire-design/) | 设计、优化和检查用户调研问卷。 |
 | [用户旅程图](skills/user-journey-analysis/) | 梳理用户场景、痛点和产品机会。 |
-| [埋点设计](skills/tracking-design/) | 根据原型整理埋点需求，生成 Excel 文档。 |
-| [数据指标与看板](skills/user-behavior-tracking/) | 设计上线后的监测指标、统计口径和看板。 |
-| [TrackTrack 行为监测](skills/tracktrack-behavior-monitor/) | 为已有产品设计并实现行为采集与监测。 |
+| [软件埋点设计](skills/tracking-design/) | 根据产品原型图设计埋点事件 |
+| [软件看板设计](skills/user-behavior-tracking/) | 设计上线后的监测指标、统计口径和看板。 |
+| [行为监测](skills/tracktrack-behavior-monitor/) | 为已有产品设计并实现行为采集与监测。 |
 
 打开对应目录中的 `SKILL.md`，结合产品背景和任务使用。
