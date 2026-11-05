@@ -1,0 +1,13 @@
+interface:
+  display_name: 问卷分析与报告
+  short_description: 从问卷原始数据提炼产品洞察并直接生成交互式 HTML 分析报告
+  default_prompt: 分析这份问卷数据，直接输出 HTML 分析报告。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
